@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ramba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ramba\\.nuget\\packages"
+    ]
+  }
+}
